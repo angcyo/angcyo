@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[CSDN](https://angcyo.blog.csdn.net/) 
+- [CSDN](https://angcyo.blog.csdn.net)
+- [Gitee](https://gitee.com/angcyo)
+- [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)
 
 
 <div>
