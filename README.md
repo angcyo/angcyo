@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fangcyo%2Fangcyo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fangcyo%2Fangcyo?ref=badge_shield)
+
 ### Hi there 👋
 
 - [作者所有开源库文档](https://angcyo.gitee.io/doc)
@@ -33,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fangcyo%2Fangcyo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fangcyo%2Fangcyo?ref=badge_large)
