@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [所有开源库文档](https://angcyo.gitee.io/doc)
+- [开源库文档](https://angcyo.gitee.io/doc)
 - [Csdn](https://angcyo.blog.csdn.net)
 - [Gitee](https://gitee.com/angcyo)
 - [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)
