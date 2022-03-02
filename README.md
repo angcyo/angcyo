@@ -20,12 +20,12 @@
 
 <br />
 <div>
-    <a href="https://github.com/angcyo" style="display:inline" align="left" width="50%">
+    <a href="https://github.com/angcyo">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true"
             alt="angcyo" />
     </a>
-    <a href="https://github.com/angcyo" style="display:inline" align="right" width="50%">
+    <a href="https://github.com/angcyo">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&layout=compact"
             alt="angcyo" />
     </a>
