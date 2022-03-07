@@ -21,15 +21,15 @@
 <br />
 <div>
     <a href="https://github.com/angcyo">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true"
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&layout=compact"
             alt="angcyo" />
     </a>
     <br />
     <br />
     <a href="https://github.com/angcyo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&layout=compact"
-            alt="angcyo" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true"
+        alt="angcyo" />
     </a>
 </div>
 
