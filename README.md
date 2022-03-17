@@ -7,6 +7,7 @@
 - [开源库文档](https://angcyo.gitee.io/doc)
 - [Csdn](https://angcyo.blog.csdn.net)
 - [Gitee](https://gitee.com/angcyo)
+- [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)
 - [Gradle Releases](https://gradle.org/releases/)
 - [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)
 
