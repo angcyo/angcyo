@@ -7,6 +7,8 @@
 - [开源库文档](https://angcyo.gitee.io/doc)
 - [Csdn](https://angcyo.blog.csdn.net)
 - [Gitee](https://gitee.com/angcyo)
+- [Gitee page](https://angcyo.gitee.io/)
+- [Github page](https://angcyo.github.io/)
 - [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)
 - [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)
