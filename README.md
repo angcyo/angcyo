@@ -9,6 +9,7 @@
 - [Gitee](https://gitee.com/angcyo)
 - [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)
+- [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)
 - [Gradle Releases](https://gradle.org/releases/)
 - [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)
 
