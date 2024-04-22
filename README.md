@@ -24,6 +24,8 @@
 | [Xcode Release](https://developer.apple.com/documentation/xcode-release-notes)
 | [macOS Release](https://developer.apple.com/documentation/macos-release-notes/)
 | [visionOS Release](https://developer.apple.com/documentation/visionos-release-notes)
+| [jsDelivr](https://www.jsdelivr.com/)
+| [BootCDN](https://www.bootcdn.cn/)
 
 <!--
 <div>
