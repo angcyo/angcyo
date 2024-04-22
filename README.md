@@ -17,6 +17,7 @@
 | [Gradle Releases](https://gradle.org/releases/)
 | [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)
 | [Android Releases](https://developer.android.com/about/versions)
+| [Android Studio download archives](https://developer.android.com/studio/archive)
 | [iOS iPadOS Release](https://developer.apple.com/documentation/ios-ipados-release-notes)
 | [Xcode Release](https://developer.apple.com/documentation/xcode-release-notes)
 | [macOS Release](https://developer.apple.com/documentation/macos-release-notes/)
