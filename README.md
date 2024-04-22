@@ -9,7 +9,7 @@
 | [开源库文档](https://angcyo.gitee.io/doc)                                                                          | [Dart Releases](https://github.com/dart-lang/sdk/tags) 
 | [Csdn](https://angcyo.blog.csdn.net)                                                                             | [Flutter Releases](https://github.com/flutter/flutter/tags) 
 | [Gitee](https://gitee.com/angcyo)                                                                                | [Rust Releases](https://github.com/rust-lang/rust/tags) 
-| [Gitee page](https://angcyo.gitee.io/)                                                                           | [pub.dev](https://pub.dev/)
+| [Gitee page](https://angcyo.gitee.io/)                                                                           | [pub](https://pub.dev/)
 | [Github page](https://angcyo.github.io/)                                                                         | [npmjs](https://www.npmjs.com/)
 | [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                   | [crates](https://crates.io/)
 | [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)        | [mvnrepository](https://mvnrepository.com/)
