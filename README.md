@@ -10,8 +10,8 @@
 | [Csdn](https://angcyo.blog.csdn.net)                                                                             | [Flutter Releases](https://github.com/flutter/flutter/tags) 
 | [Gitee](https://gitee.com/angcyo)                                                                                | [Rust Releases](https://github.com/rust-lang/rust/tags) 
 | [Gitee page](https://angcyo.gitee.io/)                                                                           | [pub](https://pub.dev/)
-| [Github page](https://angcyo.github.io/)                                                                         | [npmjs](https://www.npmjs.com/)
-| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                   | [crates](https://crates.io/)
+| [Github page](https://angcyo.github.io/)                                                                         | [crates](https://crates.io/)
+| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                   | [npmjs](https://www.npmjs.com/)
 | [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)        | [mvnrepository](https://mvnrepository.com/)
 | [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)  |
 | [Gradle Releases](https://gradle.org/releases/)
