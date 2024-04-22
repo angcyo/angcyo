@@ -6,16 +6,17 @@
 
 |wa|wo|
 |--|--|
-| [开源库文档](https://angcyo.gitee.io/doc) | [Dart Releases](https://github.com/dart-lang/sdk/tags) 
-| [Csdn](https://angcyo.blog.csdn.net) | [Flutter Releases](https://github.com/flutter/flutter/tags) 
-| [Gitee](https://gitee.com/angcyo) | [Rust Releases](https://github.com/rust-lang/rust/tags) 
-| [Gitee page](https://angcyo.gitee.io/) | [pub.dev](https://pub.dev/)
-| [Github page](https://angcyo.github.io/) | [npmjs](https://www.npmjs.com/)
-| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/) | [crates](https://crates.io/)
-| [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle) | [mvnrepository](https://mvnrepository.com/)
-| [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)
+| [开源库文档](https://angcyo.gitee.io/doc)                                                                         | [Dart Releases](https://github.com/dart-lang/sdk/tags) 
+| [Csdn](https://angcyo.blog.csdn.net)                                                                             | [Flutter Releases](https://github.com/flutter/flutter/tags) 
+| [Gitee](https://gitee.com/angcyo)                                                                                | [Rust Releases](https://github.com/rust-lang/rust/tags) 
+| [Gitee page](https://angcyo.gitee.io/)                                                                           | [pub.dev](https://pub.dev/)
+| [Github page](https://angcyo.github.io/)                                                                         | [npmjs](https://www.npmjs.com/)
+| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                   | [crates](https://crates.io/)
+| [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)        | [mvnrepository](https://mvnrepository.com/)
+| [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)  |
 | [Gradle Releases](https://gradle.org/releases/)
 | [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)
+| [Java Downloads](https://www.oracle.com/hk/java/technologies/downloads/)
 | [Android Releases](https://developer.android.com/about/versions)
 | [Android Studio download archives](https://developer.android.com/studio/archive)
 | [iOS iPadOS Release](https://developer.apple.com/documentation/ios-ipados-release-notes)
