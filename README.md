@@ -6,15 +6,15 @@
 
 |wa|wo|
 |--|--|
-| [开源库文档](https://angcyo.gitee.io/doc)                                                                          | [Dart Releases](https://github.com/dart-lang/sdk/tags) 
-| [Csdn](https://angcyo.blog.csdn.net)                                                                             | [Flutter Releases](https://github.com/flutter/flutter/tags) 
-| [Gitee](https://gitee.com/angcyo)                                                                                | [Rust Releases](https://github.com/rust-lang/rust/tags) 
-| [Gitee page](https://angcyo.gitee.io/)                                                                           | [pub](https://pub.dev/)
-| [Github page](https://angcyo.github.io/)                                                                         | [crates](https://crates.io/)
-| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                   | [npmjs](https://www.npmjs.com/)
-| [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)        | [mvnrepository](https://mvnrepository.com/)
-| [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)  |
-| [Gradle Releases](https://gradle.org/releases/)
+| [开源库文档](https://angcyo.gitee.io/doc)                                                                          | [dart](https://dart.dev/)
+| [Csdn](https://angcyo.blog.csdn.net)                                                                             | [flutter](https://flutter.dev/)
+| [Gitee](https://gitee.com/angcyo)                                                                                | [Dart Releases](https://github.com/dart-lang/sdk/tags)
+| [Gitee page](https://angcyo.gitee.io/)                                                                           | [Flutter Releases](https://github.com/flutter/flutter/tags)
+| [Github page](https://angcyo.github.io/)                                                                         | [Rust Releases](https://github.com/rust-lang/rust/tags)
+| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                    | [pub](https://pub.dev/)
+| [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)         | [crates](https://crates.io/) 
+| [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)   | [npmjs](https://www.npmjs.com/)
+| [Gradle Releases](https://gradle.org/releases/)                                                                    | [mvnrepository](https://mvnrepository.com/)
 | [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)
 | [Java Downloads](https://www.oracle.com/hk/java/technologies/downloads/)
 | [Kotlin Releases](https://github.com/JetBrains/kotlin/tags)
