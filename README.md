@@ -36,19 +36,14 @@
 -->
 
 <br />
-<div>
-    <a href="https://github.com/angcyo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&layout=compact"
-            alt="angcyo" />
-    </a>
-    <br />
-    <br />
-    <a href="https://github.com/angcyo">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true"
-        alt="angcyo" />
-    </a>
-</div>
+
+## Github Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" align="center" alt="angcyo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&hide_border=true" align="center" alt="angcyo" />
+</div>  
+
 
 ## Visitors Count
 <img height="30px" src = "https://profile-counter.glitch.me/angcyo/count.svg" alt ="Loading">
