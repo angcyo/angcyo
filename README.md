@@ -16,7 +16,7 @@
 | [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)   | [crates](https://crates.io/)  
 | [Gradle Releases](https://gradle.org/releases/)                                                                    | [npmjs](https://www.npmjs.com/)
 | [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)                          | [mvnrepository](https://mvnrepository.com/)
-| [Java Downloads](https://www.oracle.com/hk/java/technologies/downloads/)
+| [Java Downloads](https://www.oracle.com/hk/java/technologies/downloads/)                                           | [CMake Release](https://cmake.org/cmake/help/latest/release/index.html)
 | [Kotlin Releases](https://github.com/JetBrains/kotlin/tags)
 | [Android Releases](https://developer.android.com/about/versions)
 | [Android Studio download archives](https://developer.android.com/studio/archive)
