@@ -2,7 +2,7 @@
     src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true"
     alt="angcyo" style="margin-top:100%" /> -->
 
-### Hi there 👋
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=angcyo&color=blueviolet&label=Count)
 
 |wa|wo|
 |--|--|
