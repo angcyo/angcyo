@@ -4,28 +4,34 @@
 
 ### Hi there 👋  ![](https://komarev.com/ghpvc/?username=angcyo&color=blueviolet&label=Count)
 
-|wa|wo|
-|--|--|
-| [开源库文档](https://angcyo.gitee.io/doc)                                                                          | [dart](https://dart.dev/)
-| [Csdn](https://angcyo.blog.csdn.net)                                                                             | [flutter](https://flutter.dev/)
-| [Gitee](https://gitee.com/angcyo)                                                                                | [Dart Releases](https://github.com/dart-lang/sdk/tags)
-| [Gitee page](https://angcyo.gitee.io/)                                                                           | [Flutter Releases](https://github.com/flutter/flutter/tags)
-| [Github page](https://angcyo.github.io/)                                                                         | [flutter-announce](https://groups.google.com/g/flutter-announce)
-| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                    | [Rust Releases](https://github.com/rust-lang/rust/tags) 
-| [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)         | [pub](https://pub.dev/)
-| [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)   | [crates](https://crates.io/)  
-| [Gradle Releases](https://gradle.org/releases/)                                                                    | [npmjs](https://www.npmjs.com/)
-| [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)                          | [mvnrepository](https://mvnrepository.com/)
-| [Java Downloads](https://www.oracle.com/hk/java/technologies/downloads/)                                           | [CMake Release](https://cmake.org/cmake/help/latest/release/index.html)
-| [Kotlin Releases](https://github.com/JetBrains/kotlin/tags)
-| [Android Releases](https://developer.android.com/about/versions)
-| [Android Studio download archives](https://developer.android.com/studio/archive)
-| [iOS iPadOS Release](https://developer.apple.com/documentation/ios-ipados-release-notes)
-| [Xcode Release](https://developer.apple.com/documentation/xcode-release-notes)
-| [macOS Release](https://developer.apple.com/documentation/macos-release-notes/)
-| [visionOS Release](https://developer.apple.com/documentation/visionos-release-notes)
-| [jsDelivr](https://www.jsdelivr.com/)
-| [BootCDN](https://www.bootcdn.cn/)
+|wa|wo|ai|
+|--|--|--|
+| [开源库文档](https://angcyo.gitee.io/doc)                                                                          | [dart](https://dart.dev/)                                                   | [Hugging Face](https://huggingface.co/)
+| [Csdn](https://angcyo.blog.csdn.net)                                                                               | [flutter](https://flutter.dev/)                                             | [魔搭社区](https://www.modelscope.cn/home)
+| [Gitee](https://gitee.com/angcyo)                                                                                  | [Dart Releases](https://github.com/dart-lang/sdk/tags)                      | [模力方舟](https://ai.gitee.com/)
+| [Gitee page](https://angcyo.gitee.io/)                                                                             | [Flutter Releases](https://github.com/flutter/flutter/tags)                 | [CivitAI](https://civitai.com/models)
+| [Github page](https://angcyo.github.io/)                                                                           | [flutter-announce](https://groups.google.com/g/flutter-announce)            | [Ollama](https://ollama.com/)
+| [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                     | [Rust Releases](https://github.com/rust-lang/rust/tags)                     | [LocalAI](https://localai.io/)
+| [AGP版本对照表](https://developer.android.google.cn/studio/releases/gradle-plugin?hl=zh_cn#updating-gradle)        | [pub](https://pub.dev/)                                                     | [OpenLLM](https://bentoml.com/)
+| [AGP Releases](https://mvnrepository.com/artifact/com.android.application/com.android.application.gradle.plugin)   | [crates](https://crates.io/)                                                | [Jina](https://jina.ai/reader/)
+| [Gradle Releases](https://gradle.org/releases/)                                                                    | [npmjs](https://www.npmjs.com/)                                             | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+| [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)                        | [mvnrepository](https://mvnrepository.com/)                                 | [SiliconFlow](https://siliconflow.cn/zh-cn/)
+| [Java Downloads](https://www.oracle.com/hk/java/technologies/downloads/)                                           | [CMake Release](https://cmake.org/cmake/help/latest/release/index.html)     | [ComfyUI](https://www.comfy.org/)
+| [Kotlin Releases](https://github.com/JetBrains/kotlin/tags)                                                        |                                                                             | [Dify.AI](https://dify.ai/zh)
+| [Android Releases](https://developer.android.com/about/versions)                                                   |                                                                             | [SD.Next](https://vladmandic.github.io/sdnext-docs/)
+| [Android Studio download archives](https://developer.android.com/studio/archive)                                   |                                                                             | [web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+| [iOS iPadOS Release](https://developer.apple.com/documentation/ios-ipados-release-notes)                           |                                                                             | [AnythingLLM](https://anythingllm.com/)
+| [Xcode Release](https://developer.apple.com/documentation/xcode-release-notes)                                     |                                                                             | [Cherry Studio](https://cherry-ai.com/)
+| [macOS Release](https://developer.apple.com/documentation/macos-release-notes/)                                    |                                                                             | [LM Studio](https://lmstudio.ai/)
+| [visionOS Release](https://developer.apple.com/documentation/visionos-release-notes)                               |                                                                             | [阶跃星辰](https://www.stepfun.com/)
+| [jsDelivr](https://www.jsdelivr.com/)                                                                              |                                                                             | [DeepSeek](https://www.deepseek.com/)
+| [BootCDN](https://www.bootcdn.cn/)                                                                                 |                                                                             | [Claude](https://claude.ai/)
+|                                                                                                                    |                                                                             | [OpenAI](https://openai.com/)
+|                                                                                                                    |                                                                             | [Grok](https://grok.com/)
+|                                                                                                                    |                                                                             | [Gemini](https://gemini.google.com/?hl=zh-cn)
+|                                                                                                                    |                                                                             | [Midjourney](https://www.midjourney.com/home)
+|                                                                                                                    |                                                                             | [Stable Diffusion](https://stabledifffusion.com/zh)
+
 
 <!--
 <div>
