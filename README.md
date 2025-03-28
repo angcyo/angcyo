@@ -7,8 +7,8 @@
 |wa|wo|ai|
 |--|--|--|
 | [开源库文档](https://angcyo.gitee.io/doc)                                                                          | [dart](https://dart.dev/)                                                   | [Hugging Face](https://huggingface.co/)
-| [Csdn](https://angcyo.blog.csdn.net)                                                                               | [flutter](https://flutter.dev/)                                             | [魔搭社区](https://www.modelscope.cn/home)
-| [Gitee](https://gitee.com/angcyo)                                                                                  | [Dart Releases](https://github.com/dart-lang/sdk/tags)                      | [模力方舟](https://ai.gitee.com/)
+| [Csdn](https://angcyo.blog.csdn.net)                                                                               | [flutter](https://flutter.dev/)                                             | [ModelScope](https://www.modelscope.cn/home)
+| [Gitee](https://gitee.com/angcyo)                                                                                  | [Dart Releases](https://github.com/dart-lang/sdk/tags)                      | [Gitee AI](https://ai.gitee.com/)
 | [Gitee page](https://angcyo.gitee.io/)                                                                             | [Flutter Releases](https://github.com/flutter/flutter/tags)                 | [CivitAI](https://civitai.com/models)
 | [Github page](https://angcyo.github.io/)                                                                           | [flutter-announce](https://groups.google.com/g/flutter-announce)            | [Ollama](https://ollama.com/)
 | [Github Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                                                     | [Rust Releases](https://github.com/rust-lang/rust/tags)                     | [LocalAI](https://localai.io/)
