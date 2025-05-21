@@ -17,10 +17,10 @@
 | [Gradle Releases](https://gradle.org/releases/)                                                                    | [npmjs](https://www.npmjs.com/)                                             | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 | [Gradle全版本迅雷下载地址](https://angcyo.blog.csdn.net/article/details/78357512#Gradle_376)                        | [mvnrepository](https://mvnrepository.com/)                                 | [SiliconFlow](https://siliconflow.cn/zh-cn/)
 | [Java Downloads](https://www.oracle.com/hk/java/technologies/downloads/)                                           | [CMake Release](https://cmake.org/cmake/help/latest/release/index.html)     | [ComfyUI](https://www.comfy.org/)
-| [Kotlin Releases](https://github.com/JetBrains/kotlin/tags)                                                        |                                                                             | [Dify.AI](https://dify.ai/zh)
-| [Android Releases](https://developer.android.com/about/versions)                                                   |                                                                             | [SD.Next](https://vladmandic.github.io/sdnext-docs/)
-| [Android Studio download archives](https://developer.android.com/studio/archive)                                   |                                                                             | [web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-| [iOS iPadOS Release](https://developer.apple.com/documentation/ios-ipados-release-notes)                           |                                                                             | [AnythingLLM](https://anythingllm.com/)
+| [Kotlin Releases](https://github.com/JetBrains/kotlin/tags)                                                        | [DartPad](https://dartpad.dev/)                                              | [Dify.AI](https://dify.ai/zh)
+| [Android Releases](https://developer.android.com/about/versions)                                                   | [Compose Multiplatform](https://www.jetbrains.com/zh-cn/compose-multiplatform/)  | [SD.Next](https://vladmandic.github.io/sdnext-docs/)
+| [Android Studio download archives](https://developer.android.com/studio/archive)                                   | [Kotlin Multiplatform](https://www.jetbrains.com/zh-cn/kotlin-multiplatform/)   | [web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+| [iOS iPadOS Release](https://developer.apple.com/documentation/ios-ipados-release-notes)                           | [Kotlin Multiplatform Wizard](https://kmp.jetbrains.com/)                      | [AnythingLLM](https://anythingllm.com/)
 | [Xcode Release](https://developer.apple.com/documentation/xcode-release-notes)                                     |                                                                             | [Cherry Studio](https://cherry-ai.com/)
 | [macOS Release](https://developer.apple.com/documentation/macos-release-notes/)                                    |                                                                             | [LM Studio](https://lmstudio.ai/)
 | [visionOS Release](https://developer.apple.com/documentation/visionos-release-notes)                               |                                                                             | [阶跃星辰](https://www.stepfun.com/)
@@ -31,6 +31,7 @@
 |                                                                                                                    |                                                                             | [Gemini](https://gemini.google.com/?hl=zh-cn)
 |                                                                                                                    |                                                                             | [Midjourney](https://www.midjourney.com/home)
 |                                                                                                                    |                                                                             | [Stable Diffusion](https://stabledifffusion.com/zh)
+|                                                                                                                    |                                                                             | [Manus](https://manus.im/)
 
 
 <!--
