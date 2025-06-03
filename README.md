@@ -32,7 +32,7 @@ alt="angcyo" style="margin-top:100%" /> -->
 |                                                                                                                    |                                                                                  | [Midjourney](https://www.midjourney.com/home)
 |                                                                                                                    |                                                                                  | [Stable Diffusion](https://stabledifffusion.com/zh)
 |                                                                                                                    |                                                                                  | [Manus](https://manus.im/)
-
+|                                                                                                                    |                                                                                  | [AutoGPT](https://agpt.co/)
 
 <!--
 <div>
