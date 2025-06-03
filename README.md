@@ -33,6 +33,7 @@ alt="angcyo" style="margin-top:100%" /> -->
 |                                                                                                                    |                                                                                  | [Stable Diffusion](https://stabledifffusion.com/zh)
 |                                                                                                                    |                                                                                  | [Manus](https://manus.im/)
 |                                                                                                                    |                                                                                  | [AutoGPT](https://agpt.co/)
+|                                                                                                                    |                                                                                  | [AgentGPT](https://agentgpt.reworkd.ai/)
 
 <!--
 <div>
