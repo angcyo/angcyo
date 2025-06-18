@@ -34,6 +34,7 @@ alt="angcyo" style="margin-top:100%" /> -->
 |                                                                                                                    |                                                                                  | [Manus](https://manus.im/)
 |                                                                                                                    |                                                                                  | [AutoGPT](https://agpt.co/)
 |                                                                                                                    |                                                                                  | [AgentGPT](https://agentgpt.reworkd.ai/)
+|                                                                                                                    |                                                                                  | [llm-action](https://github.com/liguodongiot/llm-action)
 
 <!--
 <div>
