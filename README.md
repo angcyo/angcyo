@@ -35,6 +35,8 @@ alt="angcyo" style="margin-top:100%" /> -->
 |                                                                                                                    |                                                                                  | [AutoGPT](https://agpt.co/)
 |                                                                                                                    |                                                                                  | [AgentGPT](https://agentgpt.reworkd.ai/)
 |                                                                                                                    |                                                                                  | [llm-action](https://github.com/liguodongiot/llm-action)
+|                                                                                                                    |                                                                                  | [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+|                                                                                                                    |                                                                                  | [ONNX Runtime](https://onnxruntime.ai/)
 
 <!--
 <div>
