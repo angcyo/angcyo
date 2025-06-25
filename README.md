@@ -6,7 +6,7 @@ alt="angcyo" style="margin-top:100%" /> -->
 
 |wa|wo|ai|
 |--|--|--|
-| [angcyo'开源库文档](https://angcyo.gitee.io/doc)                                                                  | [dart](https://dart.dev/)                                                         | [Hugging Face](https://huggingface.co/)
+| [`angcyo'`开源库文档](https://angcyo.gitee.io/doc)                                                                  | [dart](https://dart.dev/)                                                         | [Hugging Face](https://huggingface.co/)
 | [Csdn](https://angcyo.blog.csdn.net)                                                                            | [flutter](https://flutter.dev/)                                                  | [ModelScope](https://www.modelscope.cn/home)
 | [Gitee](https://gitee.com/angcyo)                                                                               | [Dart Releases](https://github.com/dart-lang/sdk/tags)                           | [Gitee AI](https://ai.gitee.com/)
 | [Gitee page](https://angcyo.gitee.io/)                                                                          | [Dart Announcements](https://groups.google.com/a/dartlang.org/g/announce)        | [CivitAI](https://civitai.com/models)
