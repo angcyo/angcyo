@@ -34,8 +34,8 @@ alt="angcyo" style="margin-top:100%" /> -->
 | [所有HarmonyOS版本](https://developer.huawei.com/consumer/cn/doc/harmonyos-releases/overview-allversion)         |                                                                                  | [Manus](https://manus.im/)
 | [Skyline](https://www.skylinewebcams.com/)                                                                      |                                                                                  | [AutoGPT](https://agpt.co/)
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)                                         |                                                                                  | [AgentGPT](https://agentgpt.reworkd.ai/)
-|                                                                                                                 |                                                                                  | [llm-action](https://github.com/liguodongiot/llm-action)
-|                                                                                                                 |                                                                                  | [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+| [Public APIs](https://github.com/angcyo/public-apis)                                                            |                                                                                  | [llm-action](https://github.com/liguodongiot/llm-action)
+| [All in SSL](https://github.com/allinssl/allinssl)                                                              |                                                                                  | [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 |                                                                                                                 |                                                                                  | [ONNX Runtime](https://onnxruntime.ai/)
 
 <!--
