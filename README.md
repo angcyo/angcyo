@@ -37,6 +37,7 @@ alt="angcyo" style="margin-top:100%" /> -->
 | [Public APIs](https://github.com/angcyo/public-apis)                                                            |                                                                                  | [llm-action](https://github.com/liguodongiot/llm-action)
 | [All in SSL](https://github.com/allinssl/allinssl)                                                              |                                                                                  | [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 |                                                                                                                 |                                                                                  | [ONNX Runtime](https://onnxruntime.ai/)
+|                                                                                                                 |                                                                                  | [MCP Servers](https://mcp.so/zh)
 
 <!--
 <div>
