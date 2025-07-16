@@ -3,6 +3,9 @@ src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&
 alt="angcyo" style="margin-top:100%" /> -->
 
 ### Hi there 👋  ![](https://komarev.com/ghpvc/?username=angcyo&color=blueviolet&label=Count)
+<!--
+https://github.com/antonkomarev/github-profile-views-counter
+-->
 
 | wa                                                                                                              |wo|ai|
 |-----------------------------------------------------------------------------------------------------------------|--|--|
@@ -56,9 +59,10 @@ alt="angcyo" style="margin-top:100%" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&hide_border=true" align="center" alt="angcyo" />
 </div>
 
-
+<!--
 ## Visitors Count
 <img height="30px" src = "https://profile-counter.glitch.me/angcyo/count.svg" alt ="Loading">
+-->
 
 <!--
 **angcyo/angcyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
