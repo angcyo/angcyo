@@ -39,8 +39,8 @@ https://github.com/antonkomarev/github-profile-views-counter
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)                                         |                                                                                  | [AgentGPT](https://agentgpt.reworkd.ai/)
 | [Public APIs](https://github.com/angcyo/public-apis)                                                            |                                                                                  | [llm-action](https://github.com/liguodongiot/llm-action)
 | [All in SSL](https://github.com/allinssl/allinssl)                                                              |                                                                                  | [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-|                                                                                                                 |                                                                                  | [ONNX Runtime](https://onnxruntime.ai/)
-|                                                                                                                 |                                                                                  | [MCP Servers](https://mcp.so/zh)
+| [List of file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)                                |                                                                                  | [ONNX Runtime](https://onnxruntime.ai/)
+| [ASCII](https://zh.wikipedia.org/wiki/ASCII)                                                                    |                                                                                  | [MCP Servers](https://mcp.so/zh)
 
 <!--
 <div>
