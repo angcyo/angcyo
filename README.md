@@ -35,12 +35,15 @@ https://github.com/antonkomarev/github-profile-views-counter
 | [jsDelivr](https://www.jsdelivr.com/)                                                                           |                                                                                  | [Midjourney](https://www.midjourney.com/home)
 | [BootCDN](https://www.bootcdn.cn/)                                                                              |                                                                                  | [Stable Diffusion](https://stabledifffusion.com/zh)
 | [所有HarmonyOS版本](https://developer.huawei.com/consumer/cn/doc/harmonyos-releases/overview-allversion)         |                                                                                  | [Manus](https://manus.im/)
-| [Skyline](https://www.skylinewebcams.com/)                                                                      |                                                                                  | [AutoGPT](https://agpt.co/)
+| [Skyline-网络摄像头](https://www.skylinewebcams.com/)                                                            |                                                                                  | [AutoGPT](https://agpt.co/)
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)                                         |                                                                                  | [AgentGPT](https://agentgpt.reworkd.ai/)
 | [Public APIs](https://github.com/angcyo/public-apis)                                                            |                                                                                  | [llm-action](https://github.com/liguodongiot/llm-action)
 | [All in SSL](https://github.com/allinssl/allinssl)                                                              |                                                                                  | [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-| [List of file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)                                |                                                                                  | [ONNX Runtime](https://onnxruntime.ai/)
+| [List of file signatures-文件签名列表](https://en.wikipedia.org/wiki/List_of_file_signatures)                     |                                                                                  | [ONNX Runtime](https://onnxruntime.ai/)
 | [ASCII](https://zh.wikipedia.org/wiki/ASCII)                                                                    |                                                                                  | [MCP Servers](https://mcp.so/zh)
+| [PhET-数理化的仿真程序](https://phet.colorado.edu/zh_CN/)                                                          |                                                                                  | 
+
+
 
 <!--
 <div>
