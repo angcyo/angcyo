@@ -43,6 +43,7 @@ https://github.com/antonkomarev/github-profile-views-counter
 | [ASCII](https://zh.wikipedia.org/wiki/ASCII)                                                                    |                                                                                  | [MCP Servers](https://mcp.so/zh)
 | [PhET-数理化的仿真程序](https://phet.colorado.edu/zh_CN/)                                                          |                                                                                  | 
 | [Keep Track - 3D Satellite Toolkit](https://app.keeptrack.space/)                                               |                                                                                  | 
+| [习字丛林](https://www.edclub.com/zh/library/%E4%B9%A0%E5%AD%97%E4%B8%9B%E6%9E%97)                               |                                                                                  | 
 
 
 
