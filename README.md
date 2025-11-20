@@ -17,7 +17,7 @@ https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps
 | <img src="https://cdn.oaistatic.com/assets/favicon-l4nq08hd.svg" style="width:1rem"/> [ChatGPT](https://chatgpt.com/)                                                          | <img src="https://g.alicdn.com/qbase/qoder/0.0.156/favIcon.svg" style="width:1rem"/> [Qoder](https://qoder.com/)
 | <img src="https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps-96-96.png" style="width:1rem"/> [通义千问](https://www.tongyi.com/)                  | <img src="https://lf-cdn.trae.ai/obj/trae-ai-sg/trae_website_prod/favicon.png" style="width:1rem"/> [TRAE](https://www.trae.ai/) 
 | <img src="https://chat.deepseek.com/favicon.svg" style="width:1rem"/> [DeepSeek](https://chat.deepseek.com/)                                                                   | <img src="https://codebuddy-1328495429.cos.accelerate.myqcloud.com/web/ide/logo.svg" style="width:1rem"/> [CodeBuddy](https://www.codebuddy.ai/) 
-| <img src="https://cursor.com/marketing-static/favicon.ico" style="width:1rem"/> [Cursor](https://cursor.com/agents)
+| <img src="https://cursor.com/marketing-static/favicon.ico" style="width:1rem"/> [Cursor](https://cursor.com/agents)                                                            | <img src="https://windsurf.com/favicon.svg" style="width:1rem"/> [Windsurf](https://windsurf.com/)  
 
 
 
