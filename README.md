@@ -5,13 +5,15 @@ alt="angcyo" style="margin-top:100%" /> -->
 ### Hi there 👋  ![](https://komarev.com/ghpvc/?username=angcyo&color=blueviolet&label=Count)
 <!--
 https://github.com/antonkomarev/github-profile-views-counter
+https://img.alicdn.com/imgextra/i3/O1CN01rEYZBP21gT6oN7UwG_!!6000000007014-2-tps-192-66.png
+https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps-96-96.png
 -->
 
 - <img src="https://github.com/favicons/favicon-copilot.svg" style="width:1rem"/> [GitHub Copilot](https://github.com/copilot)
 - <img src="https://sider.ai/icon.png" style="width:1rem"/> [Sider](https://sider.ai/zh-CN/chat)
 - <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" style="width:1rem"/> [Google Gemini](https://gemini.google.com/app)
 - <img src="https://cdn.oaistatic.com/assets/favicon-l4nq08hd.svg" style="width:1rem"/> [ChatGPT](https://chatgpt.com/)
-- <img src="https://img.alicdn.com/imgextra/i3/O1CN01rEYZBP21gT6oN7UwG_!!6000000007014-2-tps-192-66.png" style="width:2rem"/> [通义千问](https://www.tongyi.com/)
+- <img src="https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps-96-96.png" style="width:1rem"/> [通义千问](https://www.tongyi.com/)
 - <img src="https://chat.deepseek.com/favicon.svg" style="width:1rem"/> [DeepSeek](https://chat.deepseek.com/)
 
 
