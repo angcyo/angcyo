@@ -7,8 +7,11 @@ alt="angcyo" style="margin-top:100%" /> -->
 https://github.com/antonkomarev/github-profile-views-counter
 -->
 
-| wa                                                                                                              |wo|ai|fk
-|-----------------------------------------------------------------------------------------------------------------|--|--|--|
+- <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" style="width:1rem"/> [Google Gemini](https://gemini.google.com/app)
+- <img src="https://github.com/favicons/favicon-copilot.svg" style="width:1rem"/> [GitHub Copilot](https://github.com/copilot)
+
+| wa                                                                                                              |wo                                                                                |ai                                                                   |fk
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------|
 | [`angcyo'`开源库文档](https://angcyo.gitee.io/doc)                                                                | [dart](https://dart.dev/)                                                        | [Hugging Face](https://huggingface.co/)                              | [TOOLFK在线工具箱](https://www.toolfk.com/zh-cn/)
 | [Csdn](https://angcyo.blog.csdn.net)                                                                            | [flutter](https://flutter.dev/)                                                  | [ModelScope](https://www.modelscope.cn/home)                         | [帮小忙](https://tool.browser.qq.com/)
 | [Gitee](https://gitee.com/angcyo)                                                                               | [Dart Releases](https://github.com/dart-lang/sdk/tags)                           | [Gitee AI](https://ai.gitee.com/)                                    | [1024工具箱](https://1024tools.com/)
