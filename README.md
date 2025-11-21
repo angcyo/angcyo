@@ -9,6 +9,8 @@ https://img.alicdn.com/imgextra/i3/O1CN01rEYZBP21gT6oN7UwG_!!6000000007014-2-tps
 https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps-96-96.png
 -->
 
+<img src="https://ping0.cc/img1" style="float:right;width:30rem"/>
+
 | Ai Chat                                                                                                                                                                        |Ai IDE                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | <img src="https://github.com/favicons/favicon-copilot.svg" style="width:1rem"/> [GitHub Copilot](https://github.com/copilot)                                                   | <img src="https://cursor.com/marketing-static/favicon-light.svg" style="width:1rem"/> [Cursor](https://cursor.com/cn)
