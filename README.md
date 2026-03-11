@@ -2,6 +2,8 @@
 src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true"
 alt="angcyo" style="margin-top:100%" /> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A35D9&width=435&lines=Hi+there+%F0%9F%91%8B++%2C+I'm+angcyo+from+China.)](https://git.io/typing-svg)
+
 ### Hi there 👋  ![](https://komarev.com/ghpvc/?username=angcyo&color=blueviolet&label=Count)
 <!--
 https://github.com/antonkomarev/github-profile-views-counter
@@ -89,6 +91,10 @@ https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps
 <img src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" align="center" alt="angcyo" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&hide_border=true" align="center" alt="angcyo" />
 </div>
+
+## GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=angcyo&hide_border=true&locale=zh_Hans&short_numbers=true&card_width=668)](https://git.io/streak-stats)
 
 <!--
 ## Visitors Count
