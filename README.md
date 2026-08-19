@@ -94,10 +94,15 @@ https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps
 
 ## Github Stats
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=angcyo&layout=compact&langs_count=8)](https://github-stats-extended.vercel.app/api/top-langs?username=angcyo&layout=compact&langs_count=8)
+
+<!--
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=angcyo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" align="center" alt="angcyo" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angcyo&hide_border=true" align="center" alt="angcyo" />
 </div>
+-->
 
 ## GitHub Streak
 
