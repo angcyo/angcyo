@@ -4,7 +4,7 @@ alt="angcyo" style="margin-top:100%" /> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A35D9&width=435&lines=Hi+there+%F0%9F%91%8B++%2C+I'm+angcyo+from+China.)](https://git.io/typing-svg)
 
-### Hi there 👋  ![](https://komarev.com/ghpvc/?username=angcyo&color=blueviolet&label=Count)
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=angcyo&color=blueviolet&label=Count) [![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb)](https://www.orcarouter.ai/ref/ref_83687f670b10bc732adc)
 
 
 <!--
