@@ -79,6 +79,7 @@ https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps
 | [Font Viewer Online](https://tophix.com/font-tools/font-viewer)                                                 |                                                                                  |
 | [ILDA Viewer](https://cr1337.github.io/ilda-viewer/)                                                            |                                                                                  |
 | [SHX Font Viewer](https://mlightcad.github.io/shx-parser/)                                                      |                                                                                  |
+| [DXF Viewer Online](https://voltplot.com/tools/dxf-viewer)                                                      |                                                                                  |
 | [Netron](https://netron.app/)                                                                                   |                                                                                  |
 
 
